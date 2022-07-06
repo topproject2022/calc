@@ -254,8 +254,8 @@ table.iksweb th {
 
 table.iksweb td,
 table.iksweb th {
-    padding: 10px;
-    font-size: 25px;
+    padding: 5px;
+    font-size: 15px;
 }
 
 table.iksweb th {
@@ -313,5 +313,10 @@ table.iksweb th {
     header {
         margin-bottom: 30px;
         margin-top: 30px;
+    }
+    table.iksweb td,
+    table.iksweb th {
+        padding: 10px;
+        font-size: 25px;
     }
 }
